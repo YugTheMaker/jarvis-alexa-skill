@@ -1,0 +1,65 @@
+{
+  "manifest": {
+    "manifestVersion": "1.0",
+    "apis": {
+      "custom": {}
+    },
+    "publishingInformation": {
+      "locales": {
+        "en-IN": {
+          "name": "Jarvis Control",
+          "summary": "Voice commands for your personal control server.",
+          "description": "Check your control server status or send a focus mode command.",
+          "examplePhrases": [
+            "Alexa, open Jarvis Control",
+            "Alexa, ask Jarvis Control to check status",
+            "Alexa, ask Jarvis Control to start focus mode"
+          ]
+        },
+        "en-US": {
+          "name": "Jarvis Control",
+          "summary": "Voice commands for your personal control server.",
+          "description": "Check your control server status or send a focus mode command.",
+          "examplePhrases": [
+            "Alexa, open Jarvis Control",
+            "Alexa, ask Jarvis Control to check status",
+            "Alexa, ask Jarvis Control to start focus mode"
+          ]
+        },
+        "en-GB": {
+          "name": "Jarvis Control",
+          "summary": "Voice commands for your personal control server.",
+          "description": "Check your control server status or send a focus mode command.",
+          "examplePhrases": [
+            "Alexa, open Jarvis Control",
+            "Alexa, ask Jarvis Control to check status",
+            "Alexa, ask Jarvis Control to start focus mode"
+          ]
+        },
+        "en-AU": {
+          "name": "Jarvis Control",
+          "summary": "Voice commands for your personal control server.",
+          "description": "Check your control server status or send a focus mode command.",
+          "examplePhrases": [
+            "Alexa, open Jarvis Control",
+            "Alexa, ask Jarvis Control to check status",
+            "Alexa, ask Jarvis Control to start focus mode"
+          ]
+        },
+        "en-CA": {
+          "name": "Jarvis Control",
+          "summary": "Voice commands for your personal control server.",
+          "description": "Check your control server status or send a focus mode command.",
+          "examplePhrases": [
+            "Alexa, open Jarvis Control",
+            "Alexa, ask Jarvis Control to check status",
+            "Alexa, ask Jarvis Control to start focus mode"
+          ]
+        }
+      },
+      "isAvailableWorldwide": true,
+      "distributionCountries": [],
+      "testingInstructions": "Open Jarvis Control and say check status. Configure your HTTPS control server to test forwarding."
+    }
+  }
+}

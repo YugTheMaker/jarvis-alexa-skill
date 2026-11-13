@@ -1,0 +1,15 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "jarvis control",
+      "intents": [
+        {"name":"AMAZON.CancelIntent","samples":[]},
+        {"name":"AMAZON.StopIntent","samples":[]},
+        {"name":"AMAZON.HelpIntent","samples":[]},
+        {"name":"CheckStatusIntent","slots":[],"samples":["check status","what is the status","are you online"]},
+        {"name":"StartFocusIntent","slots":[],"samples":["start focus mode","start a focus session","turn on focus mode"]}
+      ],
+      "types": []
+    }
+  }
+}
